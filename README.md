@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**abaronia108/abaronia108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Arjun!
 
-Here are some ideas to get you started:
+🎓 Graduate student in Data Science  
+💻 Interested in AI, data engineering, and backend systems  
+📊 Currently working on SQL, OpenAI API, and data governance projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- Python, SQL
+- PostgreSQL, Milvus, Elasticsearch
+- OpenAI API
+
+## 📫 Connect with me
+- LinkedIn: linkedin.com/in/abaronia
