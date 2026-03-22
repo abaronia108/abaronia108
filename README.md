@@ -3,7 +3,7 @@
 I'm Arjun!
 
 🎓 Graduate student in Data Science  
-💻 Interested in AI, data engineering, and backend systems  
+💻 Interested in AI, data visualization, and data ethics
 📊 Currently working on SQL, OpenAI API, and data governance projects  
 
 ## 🔧 Tech Stack
@@ -11,5 +11,5 @@ I'm Arjun!
 - PostgreSQL, Milvus, Elasticsearch
 - OpenAI API
 
-## 📫 Connect with me
+## Connect with me
 - LinkedIn: linkedin.com/in/abaronia
